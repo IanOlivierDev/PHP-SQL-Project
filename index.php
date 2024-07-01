@@ -19,11 +19,16 @@
         .brand{
             background-color: #cbb09c !important;
         }
+        .brand-text{
+            color: #cbb09c !important;
+        }
     </style>
 </head>
 <body class="grey lighter-4">
     <?php include('./templates/header.php');?>
+    
 
+    <?php include('./templates/footer.php');?>
 </body>
     
 </html>
